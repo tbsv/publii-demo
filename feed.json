@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "tbsv",
+    "title": "Publii Demo",
     "description": "",
     "home_page_url": "https://tbsv.github.io/publii-demo",
     "feed_url": "https://tbsv.github.io/publii-demo/feed.json",
@@ -9,5 +9,19 @@
         "name": "tbsv"
     },
     "items": [
+        {
+            "id": "https://tbsv.github.io/publii-demo/welcome/",
+            "url": "https://tbsv.github.io/publii-demo/welcome/",
+            "title": "Hello",
+            "summary": "Lorem ipsum.",
+            "content_html": "<p>Lorem ipsum.</p>",
+            "author": {
+                "name": "tbsv"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-04T10:59:06+02:00",
+            "date_modified": "2020-10-04T11:00:26+02:00"
+        }
     ]
 }
